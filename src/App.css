@@ -1,3 +1,8 @@
 .App {
   text-align: center;
+  background: black;
+  font-weight: bold;
+  font-size: 75px;
+  color: #fff;
+  padding: 5px;
 }
